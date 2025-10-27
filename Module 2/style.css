@@ -1,0 +1,46 @@
+/* 
+
+Nardos Gebremedhin 
+Module 2
+10/26/2025
+
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 20px;
+}
+
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+th, td {
+    border: 1px solid #333;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #FFC0CB;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+
+h1 {
+    color: #333;
+}
+
+
+.description {
+    margin-bottom: 20px;
+    font-style: italic;
+}
